@@ -10,6 +10,6 @@ A bill is being Generated.
 
 # How to run ?
 
-Download the folder and Extract.
+Download the Zip and Extract.
 
 Simply import the project in your IDE
